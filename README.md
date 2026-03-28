@@ -1,15 +1,21 @@
 🌐 My Digital Literacy Journey
+
 CSE0001: Student Digital Ambassador Portfolio | VIT Bhopal University
+
 Welcome to my Digital Literacy Portfolio! I created this repository during my first year at VIT Bhopal to document my growth as a Student Digital Ambassador.
 In this role, my mission was to explore how we can navigate the digital world—not just as users, but as responsible, professional, and safe creators. This portfolio is a collection of everything I’ve learned, from designing visuals to securing my digital identity.
 
 👤 About Me
 Name: Alok Kumar Sharma
+
 Reg No: 25BAI10346
+
 Branch: B.Tech- CSE AI AND ML
+
 The Goal: Building a foundation for a successful (and safe) four years in engineering.
 
 📂 What's Inside?
+
 I've organized my work into specific modules. You can explore each folder to see the progress I've made:
 Folder / File
 What you'll find inside
