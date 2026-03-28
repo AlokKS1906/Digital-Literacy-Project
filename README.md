@@ -17,27 +17,21 @@ The Goal: Building a foundation for a successful (and safe) four years in engine
 📂 What's Inside?
 
 I've organized my work into specific modules. You can explore each folder to see the progress I've made:
-Folder / File
-
+Folder / File  
 What you'll find inside
-report/
-
+report/  
 My full reflection on the project and what I learned.
-task-1-presentation/
-
+task-1-presentation/  
 A visual guide I designed to make digital literacy easy for everyone.
-task-2-portfolio/
-
+task-2-portfolio/  
 My new professional "homes" on LinkedIn, GitHub, and Kaggle.
-task-3-platforms/
-
+task-3-platforms/  
 Proof of my coding practice and the community quiz I built.
-task-4-email-etiquette/
-
+task-4-email-etiquette/  
 My guide to writing emails that actually get a professional response.
-task-5-cybercrime/
-
+task-5-cybercrime/  
 A deep dive into staying safe from phishing and UPI scams.
+
 
 🛠️ My Progress
 
