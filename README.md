@@ -17,6 +17,7 @@ The Goal: Building a foundation for a successful (and safe) four years in engine
 📂 What's Inside?
 
 I've organized my work into specific modules. You can explore each folder to see the progress I've made:
+
 Folder / File
 What you'll find inside
 report/
